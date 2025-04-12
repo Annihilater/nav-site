@@ -98,3 +98,6 @@ npm start
 ## 许可证
 
 MIT
+
+[![image](iframe组件截图图片链接)](https://yxvm.com/)
+[NodeSupport](https://github.com/NodeSeekDev/NodeSupport)赞助了本项目
