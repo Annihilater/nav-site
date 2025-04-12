@@ -99,5 +99,7 @@ npm start
 
 MIT
 
-[![image](iframe组件截图图片链接)](https://yxvm.com/)
-[NodeSupport](https://github.com/NodeSeekDev/NodeSupport)赞助了本项目
+## 赞助商
+
+[YxVM](https://yxvm.com/)
+[NodeSupport](https://github.com/NodeSeekDev/NodeSupport)
